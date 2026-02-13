@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EncryptDecryptTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-02-13T14:19:20" hostname="NSSEA-EFLP-66" time="0.131">
+  <properties/>
+  <testcase name="start" classname="EncryptDecryptTest" time="0.131"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+dv ulfmw z givzhfiv!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
